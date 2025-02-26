@@ -1,13 +1,17 @@
-#  Namaste!, I'm Lakshit Khandelwal
+# Namaste! 🙏 I'm **Lakshit Khandelwal**
 
-Electronics and Communication Engineering student at **IIIT Nagpur**, specializing in Internet of Things (IoT). I'm passionate about building applications with clean architecture and designing intuitive user interfaces.
+### 🎓 Electronics and Communication Engineering student at **IIIT Nagpur**, specializing in **Internet of Things (IoT)**.  
+I'm passionate about crafting applications with **clean architecture** and designing **intuitive user interfaces** that deliver exceptional user experiences.
+
+---
 
 ## 🚀 About Me
-- 🎓 B.Tech student at Indian Institute of Information Technology, Nagpur
-- 💻 Backend Developer & UI/UX Enthusiast
-- 🏆 Winner of AIOT Hackathon at Tantrafiesta 24
-- 🧩 Problem Solver with 320+ DSA questions on LeetCode
-## 💻 Technologies & Tools
+- 🎓 **B.Tech** student at the Indian Institute of Information Technology, Nagpur
+- 💻 **Backend Developer** & **UI/UX Enthusiast**
+- 🏆 **Winner** of the AIOT Hackathon at *Tantrafiesta 24*
+- 🧩 Avid **Problem Solver**, with **320+ DSA questions solved on LeetCode**
+
+---
 
 ## 💻 Technologies & Tools
 
@@ -25,31 +29,23 @@ Electronics and Communication Engineering student at **IIIT Nagpur**, specializi
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="48" height="48" alt="Arduino" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="48" height="48" alt="GitHub" />
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
 <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" width="48" height="48" alt="IFTTT" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
-
-</div>
-<br>
-<br>
-<div align="center">
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DegeneratorXx&layout=pie">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DegeneratorXx&layout=pie&theme=radical" width="400" alt="GitHub Language Pie Chart" />
-</a>
 
 </div>
 
-
-
+---
 
 ## 🏆 Competitive Programming
 
-- LeetCode: 320+ problems solved | Rating: 1715
-- CodeChef: 3⭐ | Max Rating: 1628
+| Platform    | Achievements                         |
+|-------------|--------------------------------------|
+| **LeetCode**| 320+ problems solved, Rating: 1715   |
+| **CodeChef**| Max Rating: 1628                     |
+
+---
 
 ## 📫 Connect With Me
 
@@ -72,8 +68,6 @@ Electronics and Communication Engineering student at **IIIT Nagpur**, specializi
 </a>
 
 </div>
-
-
 
 ---
 
