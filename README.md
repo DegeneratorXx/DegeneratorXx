@@ -33,6 +33,7 @@ Electronics and Communication Engineering student at **IIIT Nagpur**, specializi
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
 
 </div>
+
 ## 📊 GitHub Repository Insights
 
 <div align="center">
@@ -57,17 +58,21 @@ Electronics and Communication Engineering student at **IIIT Nagpur**, specializi
 <a href="https://www.linkedin.com/in/lakshitkh/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/DegeneratorXx/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="48" alt="LeetCode" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/DegeneratorXx" target="_blank">
     <img src="https://cdn.codechef.com/images/cc-logo.svg" width="48" height="48" alt="CodeChef" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:lakshitkhandelwal2002@gmail.com">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="48" height="48" alt="Gmail" />
 </a>
 
 </div>
+
 
 
 ---
