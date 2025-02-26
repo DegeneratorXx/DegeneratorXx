@@ -64,7 +64,7 @@ Electronics and Communication Engineering student at **IIIT Nagpur**, specializi
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/DegeneratorXx" target="_blank">
-    <img src="https://api.iconify.design/simple-icons:codechef.svg" width="55" height="55" alt="CodeChef" />
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" width="55" height="55" alt="CodeChef" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:lakshitkhandelwal2002@gmail.com">
@@ -72,6 +72,7 @@ Electronics and Communication Engineering student at **IIIT Nagpur**, specializi
 </a>
 
 </div>
+
 
 
 ---
