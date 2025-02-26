@@ -33,16 +33,16 @@ Electronics and Communication Engineering student at **IIIT Nagpur**, specializi
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
 
 </div>
-
-## 📊 GitHub Repository Insights
+## 📊 GitHub Repo Insights
 
 <div align="center">
 
-<a href="https://github.com/LakshitKH">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DegeneratorXx&layout=pie" alt="Top Languages" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DegeneratorXx&layout=pie">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DegeneratorXx&layout=pie&theme=radical" width="400" alt="GitHub Language Pie Chart" />
 </a>
 
 </div>
+
 
 
 
@@ -56,23 +56,22 @@ Electronics and Communication Engineering student at **IIIT Nagpur**, specializi
 <div align="center">
 
 <a href="https://www.linkedin.com/in/lakshitkh/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="55" height="55" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/DegeneratorXx/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="48" alt="LeetCode" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" width="55" height="55" alt="LeetCode" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/DegeneratorXx" target="_blank">
-    <img src="https://cdn.codechef.com/images/cc-logo.svg" width="48" height="48" alt="CodeChef" />
+    <img src="https://api.iconify.design/simple-icons:codechef.svg" width="55" height="55" alt="CodeChef" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:lakshitkhandelwal2002@gmail.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="48" height="48" alt="Gmail" />
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="55" height="55" alt="Gmail" />
 </a>
 
 </div>
-
 
 
 ---
