@@ -33,7 +33,6 @@ Electronics and Communication Engineering student at **IIIT Nagpur**, specializi
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
 
 </div>
-## 📊 GitHub Repo Insights
 
 <div align="center">
 
