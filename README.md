@@ -25,34 +25,6 @@ Electronics and Communication Engineering student at **IIIT Nagpur**, specializi
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-## 🔭 Featured Projects
-
-### Journal App
-- Backend journal application built with Spring Boot and MongoDB
-- Implemented user authentication, CRUD operations, and secure journal management
-- Technologies: Spring Boot, Spring Security, MongoDB, REST APIs
-
-### Hotel Booking Website
-- Web application for hotel reservations using Flask and SQLite
-- Features user authentication, booking management, and admin controls
-- Technologies: Flask, SQLite, DBMS, bcrypt
-
-### UI/UX Design Projects
-- Coca-Cola Product Page Design
-- Shared Emotions Platform (Sentify)
-- Little Lemon Android App
-- Nirvana (Space-Themed App)
-
-### IoT Projects
-- Smart IoT Helmet for mine worker safety with real-time monitoring
-- Technologies: ESP32, GPS, MQ2 Sensor, IFTTT, Adafruit
-
-## 📊 GitHub Stats
-
-![Lakshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=DegeneratorXx&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DegeneratorXx&layout=compact&theme=radical)
-
 ## 🏆 Competitive Programming
 
 - LeetCode: 320+ problems solved | Rating: 1715
