@@ -1,6 +1,5 @@
 # **Namaste!** 🙏 I'm **Lakshit Khandelwal**  
 
-### 🎓 Electronics and Communication Engineering student @ **IIIT Nagpur**, specializing in **Internet of Things**.  
 I'm passionate about crafting applications with **clean architecture** and designing **intuitive user interfaces** that deliver exceptional user experiences.  
 
 ---
