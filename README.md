@@ -1,19 +1,19 @@
-# Namaste!  I'm **Lakshit Khandelwal**
+# **Namaste!** 🙏 I'm **Lakshit Khandelwal**  
 
 ### 🎓 Electronics and Communication Engineering student at **IIIT Nagpur**, specializing in **Internet of Things (IoT)**.  
-I'm passionate about crafting applications with **clean architecture** and designing **intuitive user interfaces** that deliver exceptional user experiences.
+I'm passionate about crafting applications with **clean architecture** and designing **intuitive user interfaces** that deliver exceptional user experiences.  
 
 ---
 
-## 🚀 About Me
-- 🎓 **B.Tech** student at the Indian Institute of Information Technology, Nagpur
-- 💻 **Backend Developer** & **UI/UX Enthusiast**
-- 🏆 **Winner** of the AIOT Hackathon at *Tantrafiesta 24*
-- 🧩 Avid **Problem Solver**, with **320+ DSA questions solved on LeetCode**
+## 🚀 **About Me**  
+- 🎓 **B.Tech** student at the Indian Institute of Information Technology, Nagpur  
+- 💻 **Backend Developer** & **UI/UX Enthusiast**  
+- 🏆 **Winner** of the **AIOT Hackathon** at *Tantrafiesta 24*  
+- 🧩 Avid **Problem Solver**, with **320+ DSA questions solved on LeetCode**  
 
 ---
 
-## 💻 Technologies & Tools
+## 💻 **Technologies & Tools**  
 
 <div align="center">
 
@@ -35,13 +35,16 @@ I'm passionate about crafting applications with **clean architecture** and desig
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio" />
 
 </div>
+
 ---
+
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DegeneratorXx&layout=pie">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DegeneratorXx&layout=pie&theme=radical" width="400" alt="GitHub Language Pie Chart" />
 </a>
+
 ---
 
-## 🏆 Competitive Programming
+## 🏆 **Competitive Programming**  
 
 | Platform    | Achievements                         |
 |-------------|--------------------------------------|
@@ -50,7 +53,7 @@ I'm passionate about crafting applications with **clean architecture** and desig
 
 ---
 
-## 📫 Connect With Me
+## 📫 **Connect With Me**  
 
 <div align="center">
 
@@ -74,4 +77,4 @@ I'm passionate about crafting applications with **clean architecture** and desig
 
 ---
 
-⚡ Fun fact: When I'm not coding, I'm probably solving competitive programming problems or designing UI prototypes!
+⚡ **Fun fact:** When I'm not coding, I'm probably solving competitive programming problems or designing UI prototypes!  
