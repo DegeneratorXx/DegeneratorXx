@@ -58,11 +58,11 @@ I'm passionate about crafting applications with **clean architecture** and desig
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="55" height="55" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/DegeneratorXx/" target="_blank">
+<a href="https://leetcode.com/DegeneratorX/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" width="55" height="55" alt="LeetCode" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/DegeneratorXx" target="_blank">
+<a href="https://www.codechef.com/users/DegeneratorX" target="_blank">
     <img src="https://cdn.codechef.com/images/cc-logo.svg" width="55" height="55" alt="CodeChef" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
