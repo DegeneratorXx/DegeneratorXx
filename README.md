@@ -8,110 +8,23 @@ Electronics and Communication Engineering student at **IIIT Nagpur**, specializi
 - 🏆 Winner of AIOT Hackathon at Tantrafiesta 24
 - 🧩 Problem Solver with 320+ DSA questions on LeetCode
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+## 💻 Technologies & Tools
 
-  <div class="tooltip">
-    <img src="https://img.shields.io/badge/-white?style=flat-square&logo=java&logoColor=ED8B00" alt="Java">
-    <span class="tooltiptext">Java</span>
-  </div>
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 
-  <div class="tooltip">
-    <img src="https://img.shields.io/badge/-white?style=flat-square&logo=c%2B%2B&logoColor=00599C" alt="C++">
-    <span class="tooltiptext">C++</span>
-  </div>
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-  <div class="tooltip">
-    <img src="https://img.shields.io/badge/-white?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
-    <span class="tooltiptext">Python</span>
-  </div>
+![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-  <div class="tooltip">
-    <img src="https://img.shields.io/badge/-white?style=flat-square&logo=kotlin&logoColor=0095D5" alt="Kotlin">
-    <span class="tooltiptext">Kotlin</span>
-  </div>
-
-  <div class="tooltip">
-    <img src="https://img.shields.io/badge/-white?style=flat-square&logo=spring&logoColor=6DB33F" alt="Spring Boot">
-    <span class="tooltiptext">Spring Boot</span>
-  </div>
-
-  <div class="tooltip">
-    <img src="https://img.shields.io/badge/-white?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB">
-    <span class="tooltiptext">MongoDB</span>
-  </div>
-
-  <div class="tooltip">
-    <img src="https://img.shields.io/badge/-white?style=flat-square&logo=flask&logoColor=000000" alt="Flask">
-    <span class="tooltiptext">Flask</span>
-  </div>
-
-  <div class="tooltip">
-    <img src="https://img.shields.io/badge/-white?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite">
-    <span class="tooltiptext">SQLite</span>
-  </div>
-
-  <div class="tooltip">
-    <img src="https://img.shields.io/badge/-white?style=flat-square&logo=android-studio&logoColor=3DDC84" alt="Android Studio">
-    <span class="tooltiptext">Android Studio</span>
-  </div>
-
-  <div class="tooltip">
-    <img src="https://img.shields.io/badge/-white?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma">
-    <span class="tooltiptext">Figma</span>
-  </div>
-
-  <div class="tooltip">
-    <img src="https://img.shields.io/badge/-white?style=flat-square&logo=git&logoColor=F05032" alt="Git">
-    <span class="tooltiptext">Git</span>
-  </div>
-
-  <div class="tooltip">
-    <img src="https://img.shields.io/badge/-white?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman">
-    <span class="tooltiptext">Postman</span>
-  </div>
-
-</div>
-
-<style>
-.tooltip {
-  position: relative;
-  display: inline-block;
-}
-
-.tooltip img {
-  width: 50px;
-  height: 50px;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-  transition: transform 0.2s ease-in-out;
-}
-
-.tooltip img:hover {
-  transform: scale(1.1);
-}
-
-.tooltip .tooltiptext {
-  visibility: hidden;
-  width: auto;
-  background-color: black;
-  color: white;
-  text-align: center;
-  padding: 5px 10px;
-  border-radius: 5px;
-  position: absolute;
-  z-index: 1;
-  bottom: 100%;
-  left: 50%;
-  transform: translateX(-50%);
-  opacity: 0;
-  transition: opacity 0.2s ease-in-out;
-}
-
-.tooltip:hover .tooltiptext {
-  visibility: visible;
-  opacity: 1;
-}
-</style>
 
 
 ## 🏆 Competitive Programming
