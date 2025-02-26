@@ -1,13 +1,14 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Lakshit Khandelwal
 
-Welcome to my GitHub profile! I'm a passionate developer who loves working on challenging projects and learning new technologies. 🚀
+Welcome to my GitHub profile! I'm an enthusiastic developer passionate about IoT, Web Development, UI/UX, and Machine Learning. 🚀
 
 ## 🚀 About Me
-- 🎓 Student at IIIT Nagpur
+- 🎓 B.Tech in Electronics and Communication Engineering (IoT) at IIIT Nagpur
 - 🏆 Passionate about ML, Web Development, and UI/UX
-- 📫 How to reach me: [Your Email] | [LinkedIn Profile] | [Twitter Handle]
-- 🌱 Currently working on: **Image Enhancement & ML Projects**
-- 💡 Open to collaborations on exciting projects!
+- 📫 Reach me at: [lakshitkhandelwal2002@gmail.com](mailto:lakshitkhandelwal2002@gmail.com)
+- 🌐 Connect with me: [LinkedIn](https://linkedin.com/in/lakshitkh/) | [GitHub](https://github.com/DegeneratorXx)
+- 🏅 1st Place Winner - AIOT Hackathon at TantraFiesta 2024
+- 💡 Currently exploring: Image Enhancement, ML & IoT
 
 ---
 
@@ -15,45 +16,63 @@ Welcome to my GitHub profile! I'm a passionate developer who loves working on ch
 
 ### 📌 Programming Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### 🌐 Web Development:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 🌐 Web & Backend Development:
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🤖 Machine Learning & AI:
+### 🤖 Machine Learning & IoT:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-0078D7?style=for-the-badge&logo=espressif&logoColor=white)
 
 ### 🛠️ Tools & DevOps:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DegeneratorXx&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DegeneratorXx&layout=compact&theme=radical)
 
 ---
 
 ## ✨ Featured Projects
-- **[Project Name 1](GitHub Repo Link)** - Brief description of the project.
-- **[Project Name 2](GitHub Repo Link)** - Brief description of the project.
-- **[Project Name 3](GitHub Repo Link)** - Brief description of the project.
+- **[Smart IoT Helmet](https://github.com/DegeneratorXx/Internet-of-things)** - IoT helmet improving mine worker safety using ESP32, GPS, and MQ2 sensor.
+- **[Journal App](https://github.com/DegeneratorXx/SpringBoot)** - A secure journal management app using Spring Boot and MongoDB.
+- **[Hotel Booking Website](https://github.com/DegeneratorXx/DBMS-PROJECT_4thsem)** - A Flask & SQLite-based hotel booking system with CRUD functionality.
+- **[Tour Management System](https://github.com/DegeneratorXx/Acad-Cpp/tree/main/MiniProject)** - A C++-based travel package management system with file handling.
+- **[Coca-Cola Product Page (UI/UX)](https://github.com/DegeneratorXx/Nirvana-Figma)** - A sleek and interactive Figma prototype for Coca-Cola.
+
+---
+
+## 🎖️ Achievements
+- **LeetCode** - Solved **320+ DSA questions**, **highest rating: 1715**
+- **CodeChef** - Achieved **3-Star rating**, max rated **1628**
+- **Winner - AIOT Hackathon at TantraFiesta 24** - Secured **1st place among 99 teams** at IIIT Nagpur
+
+---
+
+## 📜 Certifications
+- [Principles of UI/UX Design (Coursera)](https://coursera.org/share/4273650cf81bce73e7d65bad3a93df1d)
+- [Version Control Basics (Coursera)](https://www.coursera.org/account/accomplishments/verify/WL7AYWEMRFGH)
 
 ---
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Your LinkedIn Profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](Your Twitter Profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](Your Portfolio Link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshitkh/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DegeneratorXx)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DegeneratorX/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/degeneratorx)
 
 ---
 
