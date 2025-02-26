@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lakshit Khandelwal
+#  Namaste!, I'm Lakshit Khandelwal
 
 Electronics and Communication Engineering student at **IIIT Nagpur**, specializing in Internet of Things (IoT). I'm passionate about building applications with clean architecture and designing intuitive user interfaces.
 
