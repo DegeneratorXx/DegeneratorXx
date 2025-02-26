@@ -18,7 +18,7 @@ Electronics and Communication Engineering student at **IIIT Nagpur**, specializi
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Security" />
+<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg](https://th.bing.com/th/id/R.22c3a9119635dbad018d8bca787e2580?rik=Ve0YAIjytpvxVA&riu=http%3a%2f%2f198.211.104.161%2fwp-content%2fuploads%2f2013%2f04%2fSpring-Security-logo.png&ehk=Muik7l5zMNWbOuQ1FYVPaa9m6kdClj5liU23CP6Q7oQ%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1)" width="48" height="48" alt="Spring Security" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
