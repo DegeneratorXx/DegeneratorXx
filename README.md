@@ -72,6 +72,7 @@ I'm passionate about crafting applications with **clean architecture** and desig
 
 </div>
 
+<br>
 
 
 ⚡ **Fun fact:** When I'm not coding, I'm probably solving competitive programming problems or designing UI prototypes!  
