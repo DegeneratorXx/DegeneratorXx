@@ -12,7 +12,7 @@ Electronics and Communication Engineering student at **IIIT Nagpur**, specializi
 ## 💻 Technologies & Tools
 
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="0">
+
   <tr>
     <td align="center" width="100" style="border: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
@@ -101,7 +101,7 @@ Electronics and Communication Engineering student at **IIIT Nagpur**, specializi
       <br>npm
     </td>
   </tr>
-</table>
+
 </div>
 
 
