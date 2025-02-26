@@ -12,103 +12,91 @@ Electronics and Communication Engineering student at **IIIT Nagpur**, specializi
 ## 💻 Technologies & Tools
 
 <div align="center">
-
-### Programming Languages
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       <br>Java
     </td>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
       <br>C++
     </td>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       <br>Python
     </td>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin" />
       <br>Kotlin
     </td>
-  </tr>
-</table>
-
-### Frameworks & Databases
-<table>
-  <tr>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
       <br>Spring Boot
     </td>
-    <td align="center" width="100">
+  </tr>
+  <tr>
+    <td align="center" width="100" style="border: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Security" />
       <br>Spring Security
     </td>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
       <br>Flask
     </td>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
       <br>SQLite
     </td>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
-    <td align="center" width="100">
+  </tr>
+  <tr>
+    <td align="center" width="100" style="border: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB" />
       <br>MATLAB
     </td>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="48" height="48" alt="Arduino" />
       <br>Arduino
     </td>
-  </tr>
-</table>
-
-### Tools & Platforms
-<table>
-  <tr>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
       <br>GitHub
     </td>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: none;">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
       <br>Figma
     </td>
-    <td align="center" width="100">
+  </tr>
+  <tr>
+    <td align="center" width="100" style="border: none;">
       <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" width="48" height="48" alt="IFTTT" />
       <br>IFTTT
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio" />
       <br>Android Studio
     </td>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
       <br>VS Code
     </td>
-    <td align="center" width="100">
+    <td align="center" width="100" style="border: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="npm" />
       <br>npm
     </td>
