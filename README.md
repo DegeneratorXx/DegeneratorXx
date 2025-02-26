@@ -2,7 +2,6 @@
 
 I'm passionate about crafting applications with **clean architecture** and designing **intuitive user interfaces** that deliver exceptional user experiences.  
 
----
 
 ## 🚀 **About Me**  
 - 🎓 **B.Tech** student at the Indian Institute of Information Technology, Nagpur  
@@ -10,7 +9,7 @@ I'm passionate about crafting applications with **clean architecture** and desig
 - 🏆 **Winner** of the **AIOT Hackathon** at *Tantrafiesta 24*  
 - 🧩 Avid **Problem Solver**, with **320+ DSA questions solved on LeetCode**  
 
----
+
 
 ## 💻 **Technologies & Tools**  
 
@@ -50,7 +49,6 @@ I'm passionate about crafting applications with **clean architecture** and desig
 | **LeetCode**| 320+ problems solved, Rating: 1715   |
 | **CodeChef**| Max Rating: 1628                     |
 
----
 
 ## 📫 **Connect With Me**  
 
