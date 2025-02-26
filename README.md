@@ -1,4 +1,4 @@
-# **Namaste!** 🙏 I'm **Lakshit Khandelwal**  
+# **Namaste!**  I'm **Lakshit Khandelwal**  
 
 I'm passionate about crafting applications with **clean architecture** and designing **intuitive user interfaces** that deliver exceptional user experiences.  
 
