@@ -33,6 +33,15 @@ Electronics and Communication Engineering student at **IIIT Nagpur**, specializi
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
 
 </div>
+## 📊 GitHub Repository Insights
+
+<div align="center">
+
+<a href="https://github.com/LakshitKH">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshitKH&layout=pie" alt="Top Languages" />
+</a>
+
+</div>
 
 
 
@@ -43,10 +52,23 @@ Electronics and Communication Engineering student at **IIIT Nagpur**, specializi
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshitkh/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/DegeneratorXx/)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/DegeneratorXx)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lakshitkhandelwal2002@gmail.com)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/lakshitkh/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" />
+</a>
+<a href="https://leetcode.com/DegeneratorXx/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="48" alt="LeetCode" />
+</a>
+<a href="https://www.codechef.com/users/DegeneratorXx" target="_blank">
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" width="48" height="48" alt="CodeChef" />
+</a>
+<a href="mailto:lakshitkhandelwal2002@gmail.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="48" height="48" alt="Gmail" />
+</a>
+
+</div>
+
 
 ---
 
