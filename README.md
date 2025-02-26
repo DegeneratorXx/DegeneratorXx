@@ -34,13 +34,13 @@ I'm passionate about crafting applications with **clean architecture** and desig
 
 </div>
 
----
+<br>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DegeneratorXx&layout=pie">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DegeneratorXx&layout=pie&theme=radical" width="400" alt="GitHub Language Pie Chart" />
 </a>
 
----
+
 
 ## 🏆 **Competitive Programming**  
 
@@ -72,6 +72,6 @@ I'm passionate about crafting applications with **clean architecture** and desig
 
 </div>
 
----
+
 
 ⚡ **Fun fact:** When I'm not coding, I'm probably solving competitive programming problems or designing UI prototypes!  
