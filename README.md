@@ -38,7 +38,7 @@ Electronics and Communication Engineering student at **IIIT Nagpur**, specializi
 <div align="center">
 
 <a href="https://github.com/LakshitKH">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshitKH&layout=pie" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DegeneratorXx&layout=pie" alt="Top Languages" />
 </a>
 
 </div>
