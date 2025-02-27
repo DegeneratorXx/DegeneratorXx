@@ -47,7 +47,7 @@ I'm passionate about crafting applications with **clean architecture** and desig
 | Platform    | Achievements                         |
 |-------------|--------------------------------------|
 | **LeetCode**| 320+ problems solved, Rating: 1715   |
-| **CodeChef**| Max Rating: 1628                     |
+| **CodeChef**| Max Rating: 1634                     |
 
 
 ## 📫 **Connect With Me**  
