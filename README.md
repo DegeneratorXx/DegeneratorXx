@@ -44,10 +44,12 @@ I'm passionate about crafting applications with **clean architecture** and desig
 
 ## 🏆 **Competitive Programming**  
 
-| Platform    | Achievements                         |
+| Platform     | Achievements                          |
 |-------------|--------------------------------------|
-| **LeetCode**| 320+ problems solved, Rating: 1715   |
-| **CodeChef**| Max Rating: 1634                     |
+| **LeetCode** | 320+ problems solved, Rating: **1728** |
+| **CodeChef** | Max Rating: **1632** (⭐3 Star)      |
+| **CodeForces** | Max Rating: **1224** (Pupil)      |
+
 
 
 ## 📫 **Connect With Me**  
@@ -66,11 +68,16 @@ I'm passionate about crafting applications with **clean architecture** and desig
     <img src="https://cdn.codechef.com/images/cc-logo.svg" width="55" height="55" alt="CodeChef" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/DegeneratorX" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/codeforces-3628695-3030024.png" width="55" height="55" alt="Codeforces" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:lakshitkhandelwal2002@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="55" height="55" alt="Gmail" />
 </a>
 
 </div>
+
 
 <br>
 
