@@ -54,6 +54,7 @@ I'm passionate about crafting applications with **clean architecture** and desig
 
 ## 📫 **Connect With Me**  
 
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/lakshitkh/" target="_blank">
@@ -69,7 +70,7 @@ I'm passionate about crafting applications with **clean architecture** and desig
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/DegeneratorX" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/codeforces-3628695-3030024.png" width="55" height="55" alt="Codeforces" />
+    <img src="https://sta.codeforces.com/s/13731/images/codeforces-sponsored-by-ton.png" width="55" height="55" alt="Codeforces" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:lakshitkhandelwal2002@gmail.com">
@@ -77,6 +78,7 @@ I'm passionate about crafting applications with **clean architecture** and desig
 </a>
 
 </div>
+
 
 
 <br>
