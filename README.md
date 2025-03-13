@@ -7,7 +7,7 @@ I'm passionate about crafting applications with **clean architecture** and desig
 - 🎓 **B.Tech** student at the Indian Institute of Information Technology, Nagpur  
 - 💻 **Backend Developer** & **UI/UX Enthusiast**  
 - 🏆 **Winner** of the **AIOT Hackathon** at *Tantrafiesta 24*  
-- 🧩 Avid **Problem Solver**, with **320+ DSA questions solved on LeetCode**  
+- 🧩 Avid **Problem Solver**, with **340+ DSA questions solved on LeetCode**  
 
 
 
