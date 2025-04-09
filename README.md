@@ -36,11 +36,6 @@ I'm passionate about crafting applications with **clean architecture** and desig
 
 <br>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DegeneratorXx&layout=pie">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DegeneratorXx&layout=pie&theme=radical" width="400" alt="GitHub Language Pie Chart" />
-</a>
-
-
 
 ## 🏆 **Competitive Programming**  
 
