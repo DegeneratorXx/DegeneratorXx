@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="400"/>
+  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" alt="Coding Animation" width="100%"/>
 </div>
 
 I'm passionate about crafting applications with **clean architecture** and designing **intuitive user interfaces** that deliver exceptional user experiences.  
