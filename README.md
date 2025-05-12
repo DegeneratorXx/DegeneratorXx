@@ -7,9 +7,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" alt="Coding Animation" width="100%"/>
 </div>
-
+<div align="center">
 I'm passionate about crafting applications with **clean architecture** and designing **intuitive user interfaces** that deliver exceptional user experiences.  
-
+</div>
 
 ## 🚀 **About Me**  
 - 🎓 **B.Tech** student at the Indian Institute of Information Technology, Nagpur  
@@ -90,4 +90,4 @@ I'm passionate about crafting applications with **clean architecture** and desig
 
 ⚡ **Fun fact:** When I'm not coding, I'm probably solving competitive programming problems or designing UI prototypes!
 
-// ... existing code ...
+
