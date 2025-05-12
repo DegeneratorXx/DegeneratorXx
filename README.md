@@ -90,4 +90,3 @@ I'm passionate about crafting applications with **clean architecture** and desig
 
 ⚡ **Fun fact:** When I'm not coding, I'm probably solving competitive programming problems or designing UI prototypes!
 
-// ... existing code ...
