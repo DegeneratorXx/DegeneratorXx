@@ -1,4 +1,4 @@
-# **<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFA500&center=false&vCenter=true&repeat=true&random=false&width=180&lines=Namaste!;Hello!;%E0%B2%A8%E0%B2%AE%E0%B2%B8%E0%B3%8D%E0%B2%95%E0%B2%BE%E0%B2%B0!;%E0%AE%B5%E0%AE%A3%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D!;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87!" alt="Typing SVG" /></a>**  I'm **Lakshit Khandelwal**  
+# **Namaste!**  I'm **Lakshit Khandelwal**  
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Backend+Developer;UI%2FUX+Enthusiast;Problem+Solver" alt="Typing SVG" />
