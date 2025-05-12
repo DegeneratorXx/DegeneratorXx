@@ -1,4 +1,8 @@
-# **Namaste!**  I'm **Lakshit Khandelwal**  
+# <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFA500&center=true&vCenter=true&random=false&width=435&lines=Namaste!;Hello!;ನಮಸ್ಕಾರ!;வணக்கம்!;नमस्ते!" alt="Greeting" />
+  <br>
+  I'm <b>Lakshit Khandelwal</b>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Backend+Developer;UI%2FUX+Enthusiast;Problem+Solver" alt="Typing SVG" />
@@ -90,4 +94,4 @@ I'm passionate about crafting applications with clean architecture and designing
 
 ⚡ **Fun fact:** When I'm not coding, I'm probably solving competitive programming problems or designing UI prototypes!
 
-
+// ... existing code ...
