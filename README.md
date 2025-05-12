@@ -1,7 +1,7 @@
 # <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFA500&center=true&vCenter=true&random=false&width=435&lines=Namaste!;Hello!;ನಮಸ್ಕಾರ!;வணக்கம்!;नमस्ते!" alt="Greeting" />
-  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=100&color=FFA500&center=true&vCenter=true&random=false&width=435&lines=Namaste!;Hello!;ನಮಸ್ಕಾರ!;नमस्ते!" alt="Greeting" />
   I'm <b>Lakshit Khandelwal</b>
+  <br>
 </div>
 
 <div align="center">
