@@ -63,7 +63,7 @@ I'm passionate about crafting applications with clean architecture and designing
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="55" height="55" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/DegeneratorX/" target="_blank">
+<a href="https://leetcode.com/DegeneratorXx/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" width="55" height="55" alt="LeetCode" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -75,7 +75,7 @@ I'm passionate about crafting applications with clean architecture and designing
     <img src="https://solidhelium.gallerycdn.vsassets.io/extensions/solidhelium/codeforces-submitter/1.0.0/1710981064378/Microsoft.VisualStudio.Services.Icons.Default" width="55" height="55" alt="Codeforces" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:lakshitkhandelwal2002@gmail.com">
+<a href="mailto:lakshitkhandelwal.dev@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="55" height="55" alt="Gmail" />
 </a>
 
