@@ -8,8 +8,8 @@
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" alt="Coding Animation" width="100%"/>
 </div>
 
-I'm passionate about crafting applications with **clean architecture** and designing **intuitive user interfaces** that deliver exceptional user experiences.  
-I enjoy building **scalable backend systems** and writing **maintainable, production-ready code**.
+<br>
+I'm passionate about crafting applications with **clean architecture** and designing **intuitive user interfaces** that deliver exceptional user experiences.I enjoy building **scalable backend systems** and writing **maintainable, production-ready code**.
 
 ---
 
