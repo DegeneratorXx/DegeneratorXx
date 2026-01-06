@@ -1,7 +1,7 @@
-# **Namaste!**  I'm **Lakshit Khandelwal**  
+# **Namaste!**  I'm **Lakshit Khandelwal** 🙏  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Backend+Developer;UI%2FUX+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Backend+Developer;Java+%7C+Spring+Boot;UI%2FUX+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -9,56 +9,53 @@
 </div>
 
 I'm passionate about crafting applications with **clean architecture** and designing **intuitive user interfaces** that deliver exceptional user experiences.  
+I enjoy building **scalable backend systems** and writing **maintainable, production-ready code**.
 
+---
 
 ## 🚀 **About Me**  
-- 🎓 **B.Tech** student at the Indian Institute of Information Technology, Nagpur  
-- 💻 **Backend Developer** & **UI/UX Enthusiast**  
-- 🏆 **Winner** of the **AIOT Hackathon** at *Tantrafiesta 24*  
-- 🧩 Avid **Problem Solver**, with **340+ DSA questions solved on LeetCode**  
 
+- 🎓 **B.Tech (2026)** — Indian Institute of Information Technology, Nagpur  
+- 💻 **Backend Developer** (Java • Spring Boot • REST • gRPC)  
+- 🧑‍💻 **Ex-Intern @ MPL** (3 months)  
+- 🏆 **Winner** — **AIOT Hackathon**, *Tantrafiesta ’24*  
+- 🧩 **Problem Solver** — **350+ DSA questions solved on LeetCode**  
+- 📍 Open to roles in **Bangalore, Hyderabad, Gurgaon, Pune**
 
+---
 
 ## 💻 **Technologies & Tools**  
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="48" height="48" alt="Arduino" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="48" height="48" alt="GitHub" />
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
-<img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" width="48" height="48" alt="IFTTT" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio" />
-
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,kotlin,spring,flask,hibernate,mysql,postgres,mongodb,redis,sqlite,docker,git,github,postman,figma,androidstudio,arduino&theme=dark" />
 </div>
+
+
 
 <br>
 
+---
 
 ## 🏆 **Competitive Programming**  
 
-| Platform     | Achievements                          |
-|-------------|--------------------------------------|
-| **LeetCode** | 340+ problems solved, Rating: **1728** |
-| **CodeChef** | Max Rating: **1632** (⭐3 Star)      |
-| **CodeForces** | Max Rating: **1229** (Pupil)      |
+| Platform        | Achievements                                   |
+|-----------------|------------------------------------------------|
+| **LeetCode**    | **350+ problems solved**, Rating: **~1750** |
+| **CodeChef**    | ⭐⭐⭐ (Max Rating: **1632**)                  |
+| **CodeForces**  | Pupil (Max Rating: **1229**)                 |
 
+---
 
+## 📌 **Currently Exploring**  
+
+- ⚙️ **Spring Boot internals & system design**
+- 🚀 **Scalable backend architectures**
+- 🧠 **Advanced DSA & CP optimizations**
+- 🔐 **Backend security & performance tuning**
+
+---
 
 ## 📫 **Connect With Me**  
-
 
 <div align="center">
 
@@ -86,6 +83,4 @@ I'm passionate about crafting applications with **clean architecture** and desig
 
 <br>
 
-
-⚡ **Fun fact:** When I'm not coding, I'm probably solving competitive programming problems or designing UI prototypes!
-
+⚡ **Fun fact:** When I’m not coding, I’m either **optimizing solutions**, **designing UI flows**, or **thinking about system design trade-offs** 😄
